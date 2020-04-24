@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 24, 2020, 1:35:08 PM
+    Author     : FMatusse
+*/
+.lang{
+    font-weight: bold;  
+}
+
+table{
+    border: black;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table td{
+    border:  1px solid #606060;
+    padding: 10px;
+}
+table #titilo{
+    margin-left: 400px;
+    margin-right: 400px;
+    border: black;
+    border-spacing: 0px;
+    margin-top: 20px;
+}
+table#titilo td{
+    border:  1px solid #606060;
+    padding: 10px;
+}
+
+span{
+    font-weight: bold;   
+}
+fieldset{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+div{
+    background-color: silver;
+}
+#identificacao{
+    margin-left:auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size: medium;
+}
+#hprofissionais{
+    margin-left:auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size: medium;
+}
+#lang{
+    margin-left:auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size: medium;
+}
+#hliterarias{
+    margin-left:auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size: medium;
+}
+#competencias{
+    margin-left:auto;
+    margin-right: auto;
+    font-family:sans-serif;
+    font-size: medium;
+}
+legend{
+    font-style: normal;
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: bolder;
+    
+}
